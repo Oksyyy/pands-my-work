@@ -1,5 +1,5 @@
 # 5.2.2.student_info1.py
-# Program Program that reads in studen name and their subjects and grades and store this information as dict
+# Program Program that reads in student name and their subjects and grades and store this information as dict
 # Author: Oksana Abrosimova
 
 student = {
